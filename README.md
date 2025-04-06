@@ -5,3 +5,4 @@ The resources I used to create this project are:
 2. Python Django Crash Course- Traversy media (https://www.youtube.com/watch?v=e1IyzVyrLSU)
 3. Chatgpt for bug fixes
 Thank you.
+ps: (Ignore the sprots_project typo)
